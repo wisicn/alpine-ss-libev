@@ -1,7 +1,7 @@
 shadowsocks-libev
 =================
 
-clone from [https://github.com/shadowsocks/shadowsocks-libev/tree/master/docker/alpine]
+clone from [https://github.com/shadowsocks/shadowsocks-libev/tree/master/docker/alpine](https://github.com/shadowsocks/shadowsocks-libev/tree/master/docker/alpine)
 
 [shadowsocks-libev][1] is a lightweight secured socks5 proxy for embedded
 devices and low end boxes.  It is a port of [shadowsocks][2] created by
